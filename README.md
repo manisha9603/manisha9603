@@ -52,24 +52,6 @@ Tracks and rewards eco-friendly student behavior through a challenge and points 
 <img src="https://raw.githubusercontent.com/andreasbm/andreasbm/master/assets/lines/1.gif" width="100%">
 
 ---
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=manisha9603&show_icons=true&theme=radical&hide_border=true&count_private=true&title_color=B8622C&icon_color=B8622C&text_color=ffffff&bg_color=0D1117"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manisha9603&layout=compact&theme=radical&hide_border=true&title_color=B8622C&text_color=ffffff&bg_color=0D1117"/>
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=manisha9603&theme=radical&hide_border=true&background=0D1117&ring=B8622C&fire=B8622C&currStreakLabel=B8622C"/>
-
-<br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=manisha9603&theme=radical&no-frame=true&row=1&column=6&margin-w=8"/>
-
-</div>
-
-<img src="https://raw.githubusercontent.com/andreasbm/andreasbm/master/assets/lines/1.gif" width="100%">
 
 ### Currently
 
