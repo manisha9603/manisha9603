@@ -2,13 +2,9 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Hi%20There,%20I'm%20Manisha%20👋&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20B.Tech%20CSE%20%40%20Geeta%20University&descAlignY=58&descSize=18" width="100%"/>
 
-<br/>
 </div>
-
 <br/>
-
 <img src="https://raw.githubusercontent.com/andreasbm/andreasbm/master/assets/lines/1.gif" width="100%">
-
 I build full-stack web applications end to end — from data modeling and API design to interaction details on the frontend. Currently a first-year B.Tech Computer Science student at Geeta University, learning by shipping real, deployed products rather than isolated exercises.
 
 ---
